@@ -1,0 +1,12 @@
+.button-container {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.button-container > button {
+  margin: 0 10px;
+}
+
+i {
+  margin-right: 10px;
+}
